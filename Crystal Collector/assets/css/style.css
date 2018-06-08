@@ -18,24 +18,23 @@
     margin-bottom: 10px;
 }
 
+.row{
+    margin-left: 10px;
+}
+
 #correctNumber{
     background-color: rgb(83, 168, 83);
     color: purple;
     font-size: 36pt;
-    margin-left: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-right: 10px;
-    width:150px;
-    height:150px;
 }
 
 #record{
     background-color:cyan;
     color:black;
     padding: 10px;
-    width: 150px;
-    height: 150px;
     margin-left: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -75,6 +74,4 @@
     margin-bottom: 10px;
 }
 
-body{
-    background-color: rgb(104, 248, 241);
-}
+
