@@ -1,0 +1,80 @@
+#gameTitle{
+    font-size: 36pt;
+    background-color: orange;
+    color: whitesmoke;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+}
+
+#instructions{
+    background-color: peachpuff;
+    color: green;
+    height: 300px;
+    width: 550px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#correctNumber{
+    background-color: rgb(83, 168, 83);
+    color: purple;
+    font-size: 36pt;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width:150px;
+    height:150px;
+}
+
+#record{
+    background-color:cyan;
+    color:black;
+    padding: 10px;
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.blue-crystal{
+    width: 100px;
+    height: 100px;
+}
+.red-crystal{
+    width: 100px;
+    height: 100px;
+}
+.white-crystal{
+    width: 100px;
+    height: 100px;
+}
+.orange-crystal{
+    width: 100px;
+    height: 100px;
+}
+
+.yourScore{
+    background-color: darkcyan;
+    color: white;
+    width: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#score{
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: rgb(104, 248, 241);
+}
